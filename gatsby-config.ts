@@ -190,6 +190,7 @@ export default {
       },
     },
     "gatsby-plugin-image",
+    "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-catch-links",
     "gatsby-plugin-optimize-svgs",
     "gatsby-plugin-sass",
